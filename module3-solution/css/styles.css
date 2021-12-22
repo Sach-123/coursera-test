@@ -1,9 +1,8 @@
 body {
 	font-size: 16px;
 	color: black;
-	font-family: 'Roboto Mono', monospace;
-
 }
+
 #header-nav {
 	background-color: gray;
 	border-radius: 0;
