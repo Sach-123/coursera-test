@@ -1,0 +1,53 @@
+body {
+	font-size: 16px;
+	color: black;
+	font-family: 'Roboto Mono', monospace;
+
+}
+#header-nav {
+	background-color: gray;
+	border-radius: 0;
+	border:2px solid black;
+
+}
+.navbar-brand {
+  vertical-align: center;
+}
+.navbar-brand h1 {
+  color: black;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+#nav-list li {
+  background-color: white;
+  text-align: center;
+  border:1px solid black;
+}
+#nav-list a {
+	color: black;
+}
+#main-content {
+	margin-bottom:25px;
+}
+#main-content h2 {
+	margin-top: 0px;
+	margin-bottom: 30px;
+}
+#Chicken {
+	margin:0;
+}
+section {
+	background-color: gray;
+}
+
+@media (max-width: 767px) {
+ #collapsable-nav { /* Collapsed nav menu text */
+    font-size: 1.2em;
+  }
+
+}
